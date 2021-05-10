@@ -1,1 +1,1 @@
-<a href="https://twitter.com/drruruu"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/drruruu?style=social"></a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/drruruu?style=social"> 
+<a href="https://twitter.com/drruruu"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/drruruu?style=plastic"></a>
