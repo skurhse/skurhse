@@ -1,1 +1,1 @@
-<a href="https://twitter.com/drruruu"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/drruruu?style=plastic"></a>
+<a href="https://twitter.com/drruruu"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/drruruu?style=plastic"></a> <a href="https://www.linkedin.com/in/drewberes/"><img alt="Twitter Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=plastic"></a>
