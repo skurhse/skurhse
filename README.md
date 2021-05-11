@@ -1,6 +1,6 @@
 <div style="display:flex;width:100%;justify-content: center">
- <a href="https://twitter.com/drruruu">
-   <img src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt=Twitter"/>
+ <a href="https://tech.lgbt/web/accounts/146565#">
+   <img src="https://img.shields.io/badge/mastodon-3088d4?logo=mastodon&style=for-the-badge&logoColor=white" alt=Mastodon"/>
  </a>
  <a href="https://www.linkedin.com/in/drewberes/">
    <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&style=for-the-badge" alt=LinkedIn"/>
