@@ -1,8 +1,4 @@
-<div style="display:flex;width:100%;justify-content: center">
- <a href="https://tech.lgbt/web/accounts/146565#">
-   <img src="https://img.shields.io/badge/mastodon-3088d4?logo=mastodon&style=for-the-badge&logoColor=white" alt=Mastodon"/>
- </a>
- &ensp;                                                                                                             
+<div style="display:flex;width:100%;justify-content: center">                                                                                                          
  <a href="https://www.linkedin.com/in/drewberes/">
    <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&style=for-the-badge" alt=LinkedIn"/>
  </a>
