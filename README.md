@@ -1,1 +1,1 @@
-trans rights are human rights! ⚧️🏳️‍⚧️
+trans rights are human rights! 🏳️‍⚧️
