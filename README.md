@@ -1,3 +1,2 @@
-Trans Rights Are Human Rights! 🏳️‍⚧️
-
-Justice For Myanmar 🕊️
+## Trans Rights Are Human Rights! 🏳️‍⚧️
+## Justice For Myanmar 🕊️
