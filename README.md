@@ -1,1 +1,1 @@
-## Justice for Myanmar 🇲🇲
+## Justice For Myanmar 🇲🇲
