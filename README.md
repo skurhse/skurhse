@@ -1,2 +1,1 @@
-## Justice For Myanmar! 🇲🇲
-## Justice For Hong Kong! 🇭🇰
+## Justice For Myanmar! 🇲🇲 Justice For Hong Kong! 🇭🇰
