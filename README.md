@@ -7,3 +7,4 @@
 # Justice For Rojava! 🔵🟡🌿
 # Justice For Kurdistan! 🔴⚪☀️🟢
 # Justice For Chiapas! ⚫★🔴
+# Justice For Oaxaca! 🟢🔴
