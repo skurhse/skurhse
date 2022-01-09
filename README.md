@@ -1,7 +1,7 @@
 # Justice For Myanmar! 🇲🇲
 # Justice For Hong Kong! 🇭🇰
-# Justice For Doğu Türkistan! ☪
+# Justice For Doğu Türkistan! ☪🔵
 # Justice For Colombia! 🇨🇴
 # Justice For Chile! 🇨🇱
-# Justice For Rojava! 🔵🟡🟢
-# Justice For Kurdistan! 🔴⚪🟡🟢
+# Justice For Rojava! 🔵🟡
+# Justice For Kurdistan! 
