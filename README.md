@@ -1,3 +1,3 @@
 # Hi, I'm Skurhse! ✨
 
-I'm a backend engineer. I especially love working with the server tech.
+I'm a backend engineer. I especially love working with server tech.
