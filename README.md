@@ -1,3 +1,3 @@
 # Hi, I'm Skurhse! ✨
 
-I'm a queer femme backend engineer and Debian enthusiast.
+I'm a queer femme backend engineer. I like to build cool stuff.
