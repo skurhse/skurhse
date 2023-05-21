@@ -6,7 +6,10 @@
     "her",
     "hers"
   ],
-  "aliases": ["Eris", "rhajii"],
+  "aliases": [
+    "Eris",
+    "rhajii"
+  ],
   "location": {
     "city": "Minneapolis",
     "region": "Minnesota",
