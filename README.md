@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Skurhse Rage 🌆🌃🌌",
-  "pronouns": "she/her/hers",
+  "pronouns": "she/her",
   "aliases": [
     "Eris",
     "rhajii"
