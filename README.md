@@ -6,12 +6,18 @@
     "her",
     "hers"
   ],
+  "aliases": ["Eris", "rhajii"],
   "location": {
     "city": "Minneapolis",
     "region": "Minnesota",
     "country": "United States of America"
   },
+  "languages": ]
+    "bash",    
+    "go",
+    "powershell"
+  ],
   "email": "skurhse@rage.codes",
-  "linkedin": "linkedin.com/in/skurhse/  "
+  "linkedin": "linkedin.com/in/skurhse/"
 }
 ```
