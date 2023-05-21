@@ -15,7 +15,7 @@
     "region": "Minnesota",
     "country": "United States of America"
   },
-  "languages": ]
+  "languages": [
     "bash",    
     "go",
     "powershell"
