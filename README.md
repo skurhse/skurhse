@@ -16,9 +16,9 @@
     "country": "United States of America"
   },
   "languages": [
-    "bash",    
-    "go",
-    "powershell"
+    "Bash",    
+    "Go",
+    "PowerShell"
   ],
   "email": "skurhse@rage.codes",
   "linkedin": "linkedin.com/in/skurhse/"
