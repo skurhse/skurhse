@@ -12,9 +12,10 @@
     "country": "United States of America"
   },
   "languages": [
-    "Bash",    
     "Go",
-    "PowerShell"
+    "Bash",
+    "PowerShell",
+    "Clojure"
   ],
   "email": "skurhse@rage.codes",
   "linkedin": "linkedin.com/in/skurhse/"
