@@ -8,7 +8,7 @@
   ],
   "location": {
     "city": "Minneapolis",
-    "state": "Minnesota",
+    "region": "Minnesota",
     "country": "United States of America"
   },
   "email": "skurhse@rage.codes",
