@@ -2,7 +2,6 @@
 {
   "name": "Skurhse Rage 🌆🌃🌌",
   "pronouns": "she/her",
-  "city": "Minneapolis",
   "languages": [
     "Go",
     "C#"
