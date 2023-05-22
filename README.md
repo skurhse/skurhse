@@ -4,8 +4,8 @@
   "pronouns": "she/her",
   "email": "skurhse@rage.codes",
   "languages": [
-    "Go",
-    "C#"
+    "C#"  
+    "Go"
   ],
   "inspirations": [
     "Lynn Conway",
