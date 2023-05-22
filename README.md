@@ -9,7 +9,6 @@
   "location": {
     "city": "Minneapolis",
     "region": "Minnesota",
-    "country": "United States of America"
   },
   "languages": [
     "Go",
