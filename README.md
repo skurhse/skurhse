@@ -8,7 +8,7 @@
     "Go"
   ],
   "luminaries": [
-    "Margaret Hamilton",
+    "Aaron Swartz",
     "Danielle Bunten Berry"
   ]
 }
