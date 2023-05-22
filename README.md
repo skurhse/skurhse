@@ -7,7 +7,7 @@
     "Go",
     "C#"
   ],
-  "inspirations: [
+  "inspirations": [
     "Lynn Conway",
     "Danielle Bunten Berry"
   ]
