@@ -14,8 +14,7 @@
     "Go",
     "Bash",
     "C#",
-    "PowerShell",
-    "Clojure"
+    "PowerShell"
   ],
   "email": "skurhse@rage.codes",
   "linkedin": "linkedin.com/in/skurhse/"
