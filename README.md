@@ -6,10 +6,7 @@
     "Eris",
     "rhajii"
   ],
-  "location": {
-    "city": "Minneapolis",
-    "region": "Minnesota",
-  },
+  "city": "Minneapolis",
   "languages": [
     "Go",
     "C#"
