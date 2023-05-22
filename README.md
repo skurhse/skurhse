@@ -2,11 +2,14 @@
 {
   "name": "Skurhse Rage 🌆🌃🌌",
   "pronouns": "she/her",
+  "email": "skurhse@rage.codes",
   "languages": [
     "Go",
     "C#"
   ],
-  "email": "skurhse@rage.codes",
-  "linkedin": "linkedin.com/in/skurhse/"
+  "inspirations: [
+    "Lynn Conway",
+    "Danielle Bunten Berry"
+  ]
 }
 ```
