@@ -4,7 +4,7 @@
   "pronouns": "she/her",
   "email": "skurhse@rage.codes",
   "languages": [
-    "C#"  
+    "Bash"  
     "Go"
   ],
   "luminaries": [
