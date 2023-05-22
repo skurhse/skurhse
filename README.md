@@ -8,7 +8,7 @@
     "Go"
   ],
   "inspirations": [
-    "Lynn Conway",
+    "Margaret Hamilton",
     "Danielle Bunten Berry"
   ]
 }
