@@ -2,10 +2,6 @@
 {
   "name": "Skurhse Rage 🌆🌃🌌",
   "pronouns": "she/her",
-  "aliases": [
-    "Eris",
-    "rhajii"
-  ],
   "city": "Minneapolis",
   "languages": [
     "Go",
