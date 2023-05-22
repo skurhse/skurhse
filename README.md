@@ -12,9 +12,7 @@
   },
   "languages": [
     "Go",
-    "Bash",
-    "C#",
-    "PowerShell"
+    "C#"
   ],
   "email": "skurhse@rage.codes",
   "linkedin": "linkedin.com/in/skurhse/"
