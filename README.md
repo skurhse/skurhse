@@ -7,7 +7,7 @@
     "C#"  
     "Go"
   ],
-  "inspirations": [
+  "luminaries": [
     "Margaret Hamilton",
     "Danielle Bunten Berry"
   ]
