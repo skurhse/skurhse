@@ -14,6 +14,7 @@
   "languages": [
     "Go",
     "Bash",
+    "C#",
     "PowerShell",
     "Clojure"
   ],
