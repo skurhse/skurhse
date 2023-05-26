@@ -1,7 +1,5 @@
 ```json
 {
-  "name": "Skurhse Rage 🌆🌃🌌",
-  "pronouns": "she/her",
   "languages": [
     "Bash",
     "Go"
