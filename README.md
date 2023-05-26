@@ -2,7 +2,6 @@
 {
   "name": "Skurhse Rage 🌆🌃🌌",
   "pronouns": "she/her",
-  "email": "skurhse@rage.codes",
   "languages": [
     "Bash",
     "Go"
