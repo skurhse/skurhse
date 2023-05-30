@@ -2,6 +2,7 @@
 {
   "languages": [
     "Bash",
+    "C#",
     "Go"
   ],
   "luminaries": [
