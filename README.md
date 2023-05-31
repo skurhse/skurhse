@@ -1,9 +1,9 @@
 ```json
 {
   "languages": [
-    "Bash",
     "C#",
-    "Go"
+    "Go",
+    "TypeScript"
   ],
   "luminaries": [
     "Aaron Swartz",
