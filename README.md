@@ -7,8 +7,8 @@
   ],
   "luminaries": [
     "Aaron Swartz",
-    "James Baldwin",
-    "Danielle Bunten Berry"
+    "Danielle Bunten Berry",
+    "James Baldwin"
   ]
 }
 ```
