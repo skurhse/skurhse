@@ -1,7 +1,7 @@
 ```json
 {
   "platform": "Azure Kubernetes Service",
-  "language": "Go",
-  "project": "cdktf"
+  "language": "Golang",
+  "project": "Cloud Development Kit for Terraform"
 }
 ```
