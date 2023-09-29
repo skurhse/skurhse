@@ -1,10 +1,6 @@
 ```json
 {
-  "languages": [
-    "C#",
-    "Go",
-    "TypeScript"
-  ],
+  "language": "Go",
   "luminaries": [
     "Aaron Swartz",
     "Danielle Bunten Berry",
