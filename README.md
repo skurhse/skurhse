@@ -1,6 +1,6 @@
 ```json
 {
-  "platform": "Azure",
+  "platform": "Azure Kubernetes Service",
   "language": "Go",
   "project": "cdktf"
 }
