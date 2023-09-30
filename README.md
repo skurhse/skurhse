@@ -1,7 +1,7 @@
 ```json
 {
   "language": "Go",
-  "project": "cdktf",
+  "framework": "CDK for Terraform",
   "luminaries": [
     "Aaron Swartz",
     "Danielle Bunten Berry"
