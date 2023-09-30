@@ -1,7 +1,11 @@
 ```json
 {
-  "platform": "AKS",
-  "language": "Golang",
-  "project": "cdktf",
-}
-```
+  "languages": [
+    "C#",
+    "Go"
+  ],
+  "luminaries": [
+    "Aaron Swartz",
+    "Danielle Bunten Berry"
+  ]
+}```
