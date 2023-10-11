@@ -1,10 +1,10 @@
 ```json
 {
   "luminaries": [
-    "Aaron Swartz",
     "Lynn Conway",
+    "Sophie Wilson",
     "Danielle Bunten Berry",
-    "James Baldwin"
+    "Lucy Wayland"
   ]
 }
 ```
