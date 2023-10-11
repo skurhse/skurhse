@@ -1,6 +1,7 @@
 ```json
 {
   "luminaries": [
+    "James Baldwin",
     "Danielle Bunten Berry",
     "Lynn Conway",
     "Ian Murdock",
