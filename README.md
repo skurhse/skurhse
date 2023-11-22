@@ -1,8 +1,8 @@
 ```json
 {
  "languages": [
-    "TypeScript",
-    "Go"
+    "Go",
+    "TypeScript"
   ]
   "luminaries": [
     "Danielle Bunten Berry",
