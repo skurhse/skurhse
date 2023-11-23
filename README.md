@@ -6,7 +6,7 @@
   ],
   "luminaries": [
     "Danielle Bunten Berry",
-    "Lynn Conway"
+    "Mira Bellwether"
   ]
 }
 ```
