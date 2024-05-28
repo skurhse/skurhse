@@ -2,7 +2,7 @@
 {
   "luminaries": [
     "Aaron Swartz",
-    "Corrinne Yu",
+    "Lucy Wayland",
     "Danielle Bunten Berry"
   ]
 }
