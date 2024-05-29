@@ -1,9 +1,8 @@
 ```json
 {
   "luminaries": [
-    "Danielle Bunten Berry",
     "Lucy Wayland",
-    "Lynn Conway"
+    "Danielle Bunten Berry"
   ]
 }
 ```
